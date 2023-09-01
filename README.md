@@ -1,6 +1,6 @@
 # Slides
 
-To be added
+You can check out the slides in [here](KubeNation.pdf). It is a PDF file, so you might need to download it to view it.
 
 # Resources
 

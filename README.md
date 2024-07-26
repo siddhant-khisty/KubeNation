@@ -13,3 +13,5 @@ Here are some free resources that can help you understand Kubernetes on a deeper
 - [Containers explained by IBM](https://youtu.be/0qotVMX-J5s?si=Mhp-zrd_egLpW2Ky)
 - [Containers vs Virtual Machines by IBM](https://www.youtube.com/watch?v=cjXI-yxqGTI)
 - [Learn about Kubernetes services by TechWorld with Nana](https://youtu.be/T4Z7visMM4E?si=rOYYY4XlFsOvln6U)
+- [Learn about Prometheus](https://prometheus.io/)
+- [Learn about OPA](https://www.openpolicyagent.org/)
